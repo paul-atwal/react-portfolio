@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HoopHub",
+    "imageSrc": "projects/android.png",
+    "description": "Android app to find pick-up basketball games.",
+    "skills": ["Kotlin", "Firebase", "Android Studio"],
+    "demo": "https://hoophub-website-ulnx.vercel.app/",
+    "source": "https://github.com/tigerokuma/HoopHub"
+  },
+  {
+    "title": "Course Picker",
+    "imageSrc": "projects/react.png",
+    "description": "React website combining RMP, CourseDiggers, and SFU course data.",
+    "skills": ["React", "JavaScript", "Python"],
+    "demo": "https://sfucoursepicker.netlify.app/",
+    "source": "https://github.com/paul-atwal/sfucourses"
+  },
+  {
+    "title": "AITA Predictor",
+    "imageSrc": "projects/python.png",
+    "description": "Machine learning model predicting Reddit user sentiment.",
+    "skills": ["Python", "pandas", "PyTorch"],
+    "demo": "https://aitapredictor.streamlit.app/",
+    "source": "https://github.com/paul-atwal/AITA_Predictor"
+  }
+]

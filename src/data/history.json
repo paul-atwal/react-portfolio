@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Business Analyst",
+    "organisation": "Lifeguard Digital Health",
+    "startDate": "Jan, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": ["Led product team", "Launched new mobile app"],
+    "imageSrc": "history/lifeguard.png"
+  },
+  {
+    "role": "Logistics Coordinator",
+    "organisation": "Centra Windows",
+    "startDate": "Mar, 2021",
+    "endDate": "Jan, 2022",
+    "experiences": ["Scheduled projects for all branches", "Analyzed CRM data"],
+    "imageSrc": "history/centra.png"
+  }
+]
